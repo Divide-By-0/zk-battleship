@@ -3,7 +3,7 @@ Zero Knowledge Battleship
 
 ## Battleship.sol Contract
 Some progress made on the contract. More TODOs in the comments. See battleshiptest.js for which parts I've tested. 
-Note that the contract is not fully integrated with the circuit and does not run.
+Note that the contract is not fully integrated with the circuit and is not verified or tested yet to be correct.
 
 ## Details
 
