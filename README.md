@@ -1,5 +1,6 @@
-# battleship
-Zero Knowledge Battleship
+# ZK Battleship on Ethereum
+Zero Knowledge Battleship. Based off paper: https://courses.csail.mit.edu/6.857/2020/projects/13-Gupta-Kaashoek-Wang-Zhao.pdf
+Course project, not production ready.
 
 ## Battleship.sol Contract
 Some progress made on the contract. More TODOs in the comments. See battleshiptest.js for which parts I've tested. 
